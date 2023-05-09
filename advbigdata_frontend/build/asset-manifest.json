@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-stock-dashboard/static/css/main.5747cf7c.chunk.css",
+    "main.js": "/react-stock-dashboard/static/js/main.3a63c86a.chunk.js",
+    "main.js.map": "/react-stock-dashboard/static/js/main.3a63c86a.chunk.js.map",
+    "runtime-main.js": "/react-stock-dashboard/static/js/runtime-main.2abb701d.js",
+    "runtime-main.js.map": "/react-stock-dashboard/static/js/runtime-main.2abb701d.js.map",
+    "static/js/2.0e260d1c.chunk.js": "/react-stock-dashboard/static/js/2.0e260d1c.chunk.js",
+    "static/js/2.0e260d1c.chunk.js.map": "/react-stock-dashboard/static/js/2.0e260d1c.chunk.js.map",
+    "index.html": "/react-stock-dashboard/index.html",
+    "precache-manifest.83901d8f9416f81cb84522c331fe8906.js": "/react-stock-dashboard/precache-manifest.83901d8f9416f81cb84522c331fe8906.js",
+    "service-worker.js": "/react-stock-dashboard/service-worker.js",
+    "static/css/main.5747cf7c.chunk.css.map": "/react-stock-dashboard/static/css/main.5747cf7c.chunk.css.map",
+    "static/js/2.0e260d1c.chunk.js.LICENSE.txt": "/react-stock-dashboard/static/js/2.0e260d1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2abb701d.js",
+    "static/js/2.0e260d1c.chunk.js",
+    "static/css/main.5747cf7c.chunk.css",
+    "static/js/main.3a63c86a.chunk.js"
+  ]
+}
