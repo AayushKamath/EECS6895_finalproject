@@ -4,7 +4,8 @@
 
 This project implements an investment strategy system that utilizes machine learning techniques for effective portfolio management. The system consists of a Django backend and a React frontend, providing a seamless integration between the server-side and client-side components.
 
-![Alt text](Screen Shot 2023-05-09 at 9.49.16 PM.png)
+
+<img width="609" alt="Screen Shot 2023-05-09 at 10 05 48 PM" src="https://github.com/AayushKamath/EECS6895_finalproject/assets/99830884/a3c7bf16-9b31-453d-923b-688ea012eb2c">
 
 
 ## Features
