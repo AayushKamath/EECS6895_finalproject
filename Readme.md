@@ -11,8 +11,7 @@ This project implements an investment strategy system that utilizes machine lear
 
 - Allows users to manage investment portfolios and track their performance.
 - Utilizes machine learning techniques to identify financial trends and optimize portfolio allocation.
-- Provides real-time data updates and analysis for informed decision-making.
-- Supports user authentication and authorization for secure access to portfolio management features.
+
 
 ## Technologies Used
 
