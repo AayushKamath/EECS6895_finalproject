@@ -48,5 +48,5 @@ The models are build in Google Colab and trained on GCP. Exported into the backe
 
 - Navigate through the application to manage your investment portfolio.
 - Utilize the machine learning features to analyze financial trends and optimize portfolio allocation.
-- Monitor the performance of your investments through visualizations and real-time data updates.
+- Monitor the performance of your investments through visualizations.
 
