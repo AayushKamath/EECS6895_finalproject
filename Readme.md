@@ -17,7 +17,9 @@ The models are build in Google Colab and trained on GCP. Exported into the backe
 
 - Allows users to manage investment portfolios and track their performance.
 - Utilizes machine learning techniques to identify financial trends and optimize portfolio allocation.
-
+- Navigate through the application to manage your investment portfolio.
+- Utilize the machine learning features to analyze financial trends and optimize portfolio allocation.
+- Monitor the performance of your investments through visualizations.
 
 ## Technologies Used
 
@@ -44,9 +46,4 @@ The models are build in Google Colab and trained on GCP. Exported into the backe
 4. Access the application: Open your web browser and visit `http://localhost:3000` to use the investment strategy system.
 5. Machine Learning Trained models present in the root directory Adv_Big_Data_Project.ipynb.
 
-## Usage
-
-- Navigate through the application to manage your investment portfolio.
-- Utilize the machine learning features to analyze financial trends and optimize portfolio allocation.
-- Monitor the performance of your investments through visualizations.
 
