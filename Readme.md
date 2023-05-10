@@ -11,7 +11,7 @@ The models are build in Google Colab and trained on GCP. Exported into the backe
 
 ## Demo
 
-https://youtu.be/iZSzM010ccI
+[![Watch the video](https://img.youtube.com/vi/iZSzM010ccI/0.jpg)](https://youtu.be/iZSzM010ccI)
 
 ## Features
 
